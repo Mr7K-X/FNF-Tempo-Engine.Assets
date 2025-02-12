@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "text": "Button",
+      "type": "_button",
+      "tag": "button",
+      "bind": "CTRL"
+    }
+  ]
+}

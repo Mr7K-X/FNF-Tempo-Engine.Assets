@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "text": "New Chart...",
+      "type": "_button",
+      "tag": "new_chart",
+      "bind": "CTRL+N"
+    },
+    {
+      "text": "New Window...",
+      "type": "_button",
+      "tag": "new_window",
+      "bind": "TAB+N"
+    },
+    null,
+    {
+      "text": "Open Chart...",
+      "type": "_button",
+      "tag": "open_chart",
+      "bind": "CTRL+TAB+O"
+    },
+    {
+      "text": "Open Project",
+      "type": "_button",
+      "tag": "open_project",
+      "bind": "CTRL+O"
+    },
+    {
+      "text": "Open Recent...",
+      "tag": "open_recent",
+      "type": "_hover"
+    },
+    null,
+    {
+      "text": "Save",
+      "tag": "save",
+      "type": "_button",
+      "bind": "CTRL+S"
+    },
+    {
+      "text": "Save as...",
+      "type": "_button",
+      "tag": "save_as",
+      "bind": "CTRL+SHIFT+S"
+    },
+    {
+      "text": "Save All",
+      "type": "_button",
+      "tag": "save_all",
+      "bind": "CTRL+SHIFT+A+S"
+    },
+    null,
+    {
+      "text": "Import Chart",
+      "tag": "import_chart",
+      "type": "_hover",
+      "hoverData": {
+        "data": [
+          {
+            "text": "V-Slice Chart (.json)",
+            "tag": "vslice_chart_import",
+            "type": "_button"
+          },
+          {
+            "text": "FNF Legacy (.json)",
+            "tag": "fnflegacy_import",
+            "type": "_button"
+          },
+          {
+            "text": "Psych (.json)",
+            "tag": "psych_import",
+            "type": "_button"
+          },
+          {
+            "text": "Codename (.json)",
+            "tag": "codename_import",
+            "type": "_button"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Export Chart",
+      "tag": "export_chart",
+      "type": "_hover",
+      "hoverData": {
+        "data": [
+          {
+            "text": "V-Slice Chart (.json)",
+            "tag": "vslice_chart_export",
+            "type": "_button"
+          },
+          {
+            "text": "FNF Legacy (.json)",
+            "tag": "fnflegacy_export",
+            "type": "_button"
+          },
+          {
+            "text": "Psych (.json)",
+            "tag": "psych_export",
+            "type": "_button"
+          },
+          {
+            "text": "Codename (.json)",
+            "tag": "codename_export",
+            "type": "_button"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Import Project",
+      "tag": "import_project",
+      "type": "_hover",
+      "hoverData": {
+        "data": [
+          {
+            "text": "V-Slice (.fnfc)",
+            "tag": "vslice_import",
+            "type": "_button"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Export Project",
+      "tag": "export_project",
+      "type": "_hover",
+      "hoverData": {
+        "data": [
+          {
+            "text": "V-Slice (.fnfc)",
+            "tag": "vslice_export",
+            "type": "_button"
+          }
+        ]
+      }
+    },
+    null,
+    {
+      "text": "Close Project",
+      "tag": "close_project",
+      "type": "_button"
+    },
+    {
+      "text": "Close All",
+      "tag": "close_all",
+      "type": "_button"
+    },
+    {
+      "text": "Close Windows",
+      "tag": "close_windows",
+      "type": "_button"
+    },
+    null,
+    {
+      "text": "Exit",
+      "tag": "exit",
+      "bind": "CTRL+F4",
+      "type": "_button"
+    }
+  ]
+}
