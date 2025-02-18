@@ -74,41 +74,37 @@
       "text": "Note Snapping",
       "tag": "note_snapping",
       "type": "_hover",
-      "hoverData": {
-        "data": [
-          {
-            "text": "Decrease Note Snap",
-            "tag": "decrease_snap",
-            "bind": "CTRL+SHIFT+D",
-            "type": "_button"
-          },
-          {
-            "text": "Increase Note Snap",
-            "tag": "increase_snap",
-            "bind": "CTRL+SHIFT+I",
-            "type": "_button"
-          }
-        ]
-      }
+      "hoverData": [
+        {
+          "text": "Decrease Note Snap",
+          "tag": "decrease_snap",
+          "bind": "CTRL+SHIFT+D",
+          "type": "_button"
+        },
+        {
+          "text": "Increase Note Snap",
+          "tag": "increase_snap",
+          "bind": "CTRL+SHIFT+I",
+          "type": "_button"
+        }
+      ]
     },
     {
       "text": "Live Input Mode",
       "tag": "live_input_mode",
       "type": "_hover",
-      "hoverData": {
-        "data": [
-          {
-            "tag": "lim_modes",
-            "bind": "CTRL+SHIFT+D",
-            "radio": [
-              "None",
-              "WASD + Arrows",
-              "Number Keys"
-            ],
-            "type": "_radio"
-          }
-        ]
-      }
+      "hoverData": [
+        {
+          "tag": "lim_modes",
+          "bind": "CTRL+SHIFT+D",
+          "radio": [
+            "None",
+            "WASD + Arrows",
+            "Number Keys"
+          ],
+          "type": "_radio"
+        }
+      ]
     }
   ]
 }

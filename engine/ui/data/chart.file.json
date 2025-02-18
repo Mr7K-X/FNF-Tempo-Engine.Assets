@@ -54,87 +54,79 @@
       "text": "Import Chart",
       "tag": "import_chart",
       "type": "_hover",
-      "hoverData": {
-        "data": [
-          {
-            "text": "V-Slice Chart (.json)",
-            "tag": "vslice_chart_import",
-            "type": "_button"
-          },
-          {
-            "text": "FNF Legacy (.json)",
-            "tag": "fnflegacy_import",
-            "type": "_button"
-          },
-          {
-            "text": "Psych (.json)",
-            "tag": "psych_import",
-            "type": "_button"
-          },
-          {
-            "text": "Codename (.json)",
-            "tag": "codename_import",
-            "type": "_button"
-          }
-        ]
-      }
+      "hoverData": [
+        {
+          "text": "V-Slice Chart (.json)",
+          "tag": "vslice_chart_import",
+          "type": "_button"
+        },
+        {
+          "text": "FNF Legacy (.json)",
+          "tag": "fnflegacy_import",
+          "type": "_button"
+        },
+        {
+          "text": "Psych (.json)",
+          "tag": "psych_import",
+          "type": "_button"
+        },
+        {
+          "text": "Codename (.json)",
+          "tag": "codename_import",
+          "type": "_button"
+        }
+      ]
     },
     {
       "text": "Export Chart",
       "tag": "export_chart",
       "type": "_hover",
-      "hoverData": {
-        "data": [
-          {
-            "text": "V-Slice Chart (.json)",
-            "tag": "vslice_chart_export",
-            "type": "_button"
-          },
-          {
-            "text": "FNF Legacy (.json)",
-            "tag": "fnflegacy_export",
-            "type": "_button"
-          },
-          {
-            "text": "Psych (.json)",
-            "tag": "psych_export",
-            "type": "_button"
-          },
-          {
-            "text": "Codename (.json)",
-            "tag": "codename_export",
-            "type": "_button"
-          }
-        ]
-      }
+      "hoverData": [
+        {
+          "text": "V-Slice Chart (.json)",
+          "tag": "vslice_chart_export",
+          "type": "_button"
+        },
+        {
+          "text": "FNF Legacy (.json)",
+          "tag": "fnflegacy_export",
+          "type": "_button"
+        },
+        {
+          "text": "Psych (.json)",
+          "tag": "psych_export",
+          "type": "_button"
+        },
+        {
+          "text": "Codename (.json)",
+          "tag": "codename_export",
+          "type": "_button"
+        }
+      ]
     },
     {
       "text": "Import Project",
       "tag": "import_project",
       "type": "_hover",
-      "hoverData": {
-        "data": [
-          {
-            "text": "V-Slice (.fnfc)",
-            "tag": "vslice_import",
-            "type": "_button"
-          }
-        ]
-      }
+      "hoverData": [
+        {
+          "text": "V-Slice (.fnfc)",
+          "tag": "vslice_import",
+          "type": "_button"
+        }
+      ]
     },
     {
       "text": "Export Project",
       "tag": "export_project",
       "type": "_hover",
-      "hoverData": {
-        "data": [
-          {
-            "text": "V-Slice (.fnfc)",
-            "tag": "vslice_export",
-            "type": "_button"
-          }
-        ]
-      }
+      "hoverData": [
+        {
+          "text": "V-Slice (.fnfc)",
+          "tag": "vslice_export",
+          "type": "_button"
+        }
+      ]
     },
     null,
     {
